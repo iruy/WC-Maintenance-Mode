@@ -3,4 +3,4 @@ Show messages or redirects on all WooCommerce pages for non admins. Other pages/
 Based on [Matt Royal plugin](https://wordpress.org/plugins/woocommerce-maintenance-mode/)
 
 
-#==UNDER DEVELOPMENT==
+#==DEBUGGING==
